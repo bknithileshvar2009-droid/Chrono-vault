@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "abstract-1",
+      "description": "Abstract swirling lights in deep space.",
+      "imageUrl": "https://picsum.photos/seed/101/800/600",
+      "imageHint": "abstract space"
+    },
+    {
+      "id": "abstract-2",
+      "description": "Geometric patterns with a neon glow.",
+      "imageUrl": "https://picsum.photos/seed/102/800/600",
+      "imageHint": "neon geometry"
+    },
+    {
+      "id": "abstract-3",
+      "description": "A digital representation of a time vortex.",
+      "imageUrl": "https://picsum.photos/seed/103/800/600",
+      "imageHint": "time vortex"
+    },
+    {
+      "id": "abstract-4",
+      "description": "Futuristic city skyline at night.",
+      "imageUrl": "https://picsum.photos/seed/104/800/600",
+      "imageHint": "futuristic city"
+    }
+  ]
+}
